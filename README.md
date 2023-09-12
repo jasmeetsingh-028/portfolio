@@ -8,9 +8,9 @@ August 23’
  
 * Implemented and analyzed computer vision techniques to successfully reconstruct 3D scenes from 2D images 
 and videos within both semi supervised and unsupervised environments. 
-• Conducted comprehensive research and experimentation to explore the utilization of State-of-the-art 
+* Conducted comprehensive research and experimentation to explore the utilization of State-of-the-art 
 techniques, employing statistical methods to design experiments and evaluate performance. 
-• Evaluated and synthesized findings into concise block diagrams and tables for clear presentation of results. 
+* Evaluated and synthesized findings into concise block diagrams and tables for clear presentation of results. 
  
 #### Deep Learning Research Intern Bennett University, Greater Noida Mar’22- Dec’22 
  
