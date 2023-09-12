@@ -17,10 +17,10 @@ techniques, employing statistical methods to design experiments and evaluate per
 specifically generating interactive 3D pose points. 
 - Conducted a comprehensive study on various pre-existing Image Super Resolution models across multiple 
 datasets. 
-- Summarized the study findings by preparing tables and diagrams and evaluating PSNR, SSIM scores. 
+- Summarized the study findings by preparing tables and diagrams and evaluating PSNR, SSIM scores.
 
 ### ACADEMIC PROJECTS 
-<br/>Title: Arduino Health Care System for COVID-19 
+Title: Arduino Health Care System for COVID-19 
 <br/>Team size: 2 
 <br/>Description:
 - Developed a sensor-based system using Arduino interface to gather user data, including Blood Sugar 
