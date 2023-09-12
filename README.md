@@ -20,7 +20,7 @@ datasets.
 - Summarized the study findings by preparing tables and diagrams and evaluating PSNR, SSIM scores.
 
 ### ACADEMIC PROJECTS 
-####Title: Arduino Health Care System for COVID-19 
+#### Title: Arduino Health Care System for COVID-19 
 Team size: 2 
 <br/>Description:
 - Developed a sensor-based system using Arduino interface to gather user data, including Blood Sugar 
@@ -30,7 +30,7 @@ inferential statistics and data visualization methods to analyze and interpret t
 - Implemented Logistic Regression and Decision Tree classifiers to classify and compare the results, 
 enhancing the system's accuracy and effectiveness. 
  
-####Title: RGB to Hyperspectral Imaging 
+#### Title: RGB to Hyperspectral Imaging 
 Team size: 3
 <br/>Project Link: [GitHub link](https://github.com/jasmeetsingh-028/RGB2HSI)
 <br/>Description: 
@@ -43,7 +43,7 @@ HSI images during the process.
 - Assessed the performance of the model using key metrics, including training loss, value loss, and value 
 mean squared error. 
  
-####Title: Domain Adaptation with CycleGAN
+#### Title: Domain Adaptation with CycleGAN
 Project Link: [GitHub Link](https://github.com/jasmeetsingh-028/Domain-Adaptation-using-Cycle-GAN)
 <br/>Description:
 - Created a CycleGAN-based project for domain adaptation, enabling seamless transformation between 
@@ -53,7 +53,7 @@ without paired data.
 - Enhanced model robustness and adaptability, facilitating effective domain transfer for various 
 applications.
 
-####Title: Neural Style Transfer 
+#### Title: Neural Style Transfer 
 Project Link: [GitHub Link](https://github.com/jasmeetsingh-028/Neural-Style-Transfer-using-VGG19)
 <br/>Description: 
 - Developed a Neural Style Transfer project using the VGG19 deep learning model. 
