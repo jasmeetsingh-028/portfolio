@@ -63,14 +63,14 @@ content and style images.
 seamlessly blend the desired style with the original content. 
  
 ### PAPER SUBMISSION 
-<br/>Track Name: ICCV2023 
+Track Name: ICCV2023 
 <br/>Paper Title: Absolute 3D Pose Estimation from Multi-View Synchronized Videos Using Transformer-based 3D 
 <br/>Pose Baseline for Temporal and Spatial Coherence. 
 <br/>Primary Subject: Human pose/shape estimation.
 <br/>Authors: Avinash Upadhyay(Primary), Ankit Shukla, Udyan Sharma, Jasmeet Singh, Manoj Sharma. 
  
 ### SKILLS 
-<br/>Technical Skills:
+Technical Skills:
 <br/>Languages: Python, SQL, MATLAB, C, C++, HTML 
 <br/>Libraries and Packages: 
 <br/>Machine Learning and Deep Learning: ScikitLearn, Pandas, Numpy, Pytorch, Keras. Tensorflow. 
