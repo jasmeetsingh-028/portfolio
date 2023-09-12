@@ -6,7 +6,7 @@ August 23’
 ### WORK EXPERIENCE
 #### Research Intern IIT KGP (KLIV) Feb’23 – Jun’23 
  
-• Implemented and analyzed computer vision techniques to successfully reconstruct 3D scenes from 2D images 
+* Implemented and analyzed computer vision techniques to successfully reconstruct 3D scenes from 2D images 
 and videos within both semi supervised and unsupervised environments. 
 • Conducted comprehensive research and experimentation to explore the utilization of State-of-the-art 
 techniques, employing statistical methods to design experiments and evaluate performance. 
