@@ -20,9 +20,9 @@ datasets.
 - Summarized the study findings by preparing tables and diagrams and evaluating PSNR, SSIM scores. 
 
 ### ACADEMIC PROJECTS 
-**Title: Arduino Health Care System for COVID-19 
-**Team size: 2 
-**Description:
+<br/>Title: Arduino Health Care System for COVID-19 
+<br/>Team size: 2 
+<br/>Description:
 - Developed a sensor-based system using Arduino interface to gather user data, including Blood Sugar 
 level, Body Temperature, and Pulse rate. 
 - Applied data engineering techniques to preprocess and clean the collected sensor data and utilized 
@@ -30,10 +30,10 @@ inferential statistics and data visualization methods to analyze and interpret t
 - Implemented Logistic Regression and Decision Tree classifiers to classify and compare the results, 
 enhancing the system's accuracy and effectiveness. 
  
-**Title: RGB to Hyperspectral Imaging 
-**Team size: 3
-**GitHub link: https://github.com/jasmeetsingh-028/RGB2HSI
-**Description: 
+<br/>Title: RGB to Hyperspectral Imaging 
+<br/>Team size: 3
+<br/>GitHub link: https://github.com/jasmeetsingh-028/RGB2HSI
+<br/>Description: 
 - Conducted in-depth analysis of pre-existing models, such as HSCNN+, to gain insights into their 
 functionality. 
 - Developed an 8-Layer 2D Convolved autoencoder model, employing feature mapping at each stage to 
@@ -43,9 +43,9 @@ HSI images during the process.
 - Assessed the performance of the model using key metrics, including training loss, value loss, and value 
 mean squared error. 
  
-**Title: Domain Adaptation with CycleGAN
-**GitHub Link: https://github.com/jasmeetsingh-028/Domain-Adaptation-using-Cycle-GAN
-**Description:
+<br/>Title: Domain Adaptation with CycleGAN
+<br/>GitHub Link: https://github.com/jasmeetsingh-028/Domain-Adaptation-using-Cycle-GAN
+<br/>Description:
 - Created a CycleGAN-based project for domain adaptation, enabling seamless transformation between 
 source and target domains. 
 - Implemented adversarial training using cyclic consistency loss to learn mappings between domains 
@@ -53,9 +53,9 @@ without paired data.
 - Enhanced model robustness and adaptability, facilitating effective domain transfer for various 
 applications.
 
-**Title: Neural Style Transfer 
-**GitHub Link: https://github.com/jasmeetsingh-028/Neural-Style-Transfer-using-VGG19
-**Description: 
+<br/>Title: Neural Style Transfer 
+<br/>GitHub Link: https://github.com/jasmeetsingh-028/Neural-Style-Transfer-using-VGG19
+<br/>Description: 
 - Developed a Neural Style Transfer project using the VGG19 deep learning model. 
 - Utilized convolutional neural networks and transfer learning to extract meaningful features from the 
 content and style images. 
@@ -63,21 +63,21 @@ content and style images.
 seamlessly blend the desired style with the original content. 
  
 ### PAPER SUBMISSION 
-**Track Name: ICCV2023 
-**Paper Title: Absolute 3D Pose Estimation from Multi-View Synchronized Videos Using Transformer-based 3D 
-**Pose Baseline for Temporal and Spatial Coherence. 
-**Primary Subject: Human pose/shape estimation.
-**Authors: Avinash Upadhyay(Primary), Ankit Shukla, Udyan Sharma, Jasmeet Singh, Manoj Sharma. 
+<br/>Track Name: ICCV2023 
+<br/>Paper Title: Absolute 3D Pose Estimation from Multi-View Synchronized Videos Using Transformer-based 3D 
+<br/>Pose Baseline for Temporal and Spatial Coherence. 
+<br/>Primary Subject: Human pose/shape estimation.
+<br/>Authors: Avinash Upadhyay(Primary), Ankit Shukla, Udyan Sharma, Jasmeet Singh, Manoj Sharma. 
  
 ### SKILLS 
-**Technical Skills:
-**Languages: Python, SQL, MATLAB, C, C++, HTML 
-**Libraries and Packages: 
-**Machine Learning and Deep Learning: ScikitLearn, Pandas, Numpy, Pytorch, Keras. Tensorflow. 
-**Data Visualization: Matplotlib, Seaborn, Plotly, pythreejs. 
-**Image Processing: OpenCV, Pillow, ScikitImage. 
-**Others: Tkinter, BeautifulSoup. pymysql, Selenium. 
-**Tools: VS code, Jupyter Notebook, Tableau, MS Excel, Power BI, GitHub, PopSQL.
+<br/>Technical Skills:
+<br/>Languages: Python, SQL, MATLAB, C, C++, HTML 
+<br/>Libraries and Packages: 
+<br/>Machine Learning and Deep Learning: ScikitLearn, Pandas, Numpy, Pytorch, Keras. Tensorflow. 
+<br/>Data Visualization: Matplotlib, Seaborn, Plotly, pythreejs. 
+<br/>Image Processing: OpenCV, Pillow, ScikitImage. 
+<br/>Others: Tkinter, BeautifulSoup. pymysql, Selenium. 
+<br/>Tools: VS code, Jupyter Notebook, Tableau, MS Excel, Power BI, GitHub, PopSQL.
  
 ### CERTIFICATIONS 
 - Generative AI with Lare Language Models, DeepLearning.AI 
