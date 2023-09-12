@@ -32,8 +32,8 @@ inferential statistics and data visualization methods to analyze and interpret t
 enhancing the system's accuracy and effectiveness. 
  
 Title: RGB to Hyperspectral Imaging 
-Team size: 3 
-GitHub link: https://github.com/jasmeetsingh-028/RGB2HSI
+-- Team size: 3 
+-- GitHub link: https://github.com/jasmeetsingh-028/RGB2HSI
 Description: 
 - Conducted in-depth analysis of pre-existing models, such as HSCNN+, to gain insights into their 
 functionality. 
