@@ -21,8 +21,8 @@ datasets.
 - Summarized the study findings by preparing tables and diagrams and evaluating PSNR, SSIM scores. 
 
 ### ACADEMIC PROJECTS 
-Title: Arduino Health Care System for COVID-19
-Team size: 2
+Title: Arduino Health Care System for COVID-19 \n
+Team size: 2 \n
 Description:
 - Developed a sensor-based system using Arduino interface to gather user data, including Blood Sugar 
 level, Body Temperature, and Pulse rate. 
