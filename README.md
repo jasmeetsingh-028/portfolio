@@ -53,6 +53,13 @@ without paired data.
 - Enhanced model robustness and adaptability, facilitating effective domain transfer for various 
 applications.
 
+#### Title: Pix2Pix Image Generation
+Project Link: [GitHub Link](https://github.com/jasmeetsingh-028/Pix2Pix-Conditional-GAN)
+<br/>Description:
+- Implemented a Pix2Pix image-to-image translation project using TensorFlow, enabling the generation of realistic images from facade sketches.
+- Leveraged conditional Generative Adversarial Networks (cGANs) to learn the mapping between facade images and their corresponding real-world counterparts, achieving high-quality image synthesis.
+- Employed techniques to optimize the network's performance and generate convincing architectural images, demonstrating the capability to transform architectural sketches into photorealistic representations.
+
 #### Title: Neural Style Transfer 
 Project Link: [GitHub Link](https://github.com/jasmeetsingh-028/Neural-Style-Transfer-using-VGG19)
 <br/>Description: 
