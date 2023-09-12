@@ -80,10 +80,10 @@ Technical Skills:
 <br/>Tools: VS code, Jupyter Notebook, Tableau, MS Excel, Power BI, GitHub, PopSQL.
  
 ### CERTIFICATIONS 
-- Generative AI with Lare Language Models, DeepLearning.AI 
-- Convolutional Neural Networks, DeepLearning.AI
-- Deep Neural Networks with PyTorch, IBM skills Network 
-- Machine Learning with Python, IBM skills Network 
-- Data Analysis with Python, IBM skills Network 
-- Python for Data Science, AI & Development: IBM skills Network 
-- Linear Algebra and Calculus for Data Science and Machine Learning, DeepLearning.A
+- [Generative AI with Lare Language Models, DeepLearning.AI](https://www.coursera.org/account/accomplishments/certificate/88MEFQ899ULZ)
+- [Deep Neural Networks with PyTorch, IBM skills Network](https://www.coursera.org/account/accomplishments/certificate/CB989Z4XBX89)
+- [Machine Learning with Python, IBM skills Network](https://www.coursera.org/account/accomplishments/certificate/Z739WSH27AJZ)
+- [Data Analysis with Python, IBM skills Network](https://www.coursera.org/account/accomplishments/certificate/EMQ7PMJH9BDT)
+- [Python for Data Science, AI & Development: IBM skills Network](https://www.coursera.org/account/accomplishments/certificate/ZYKWA5GHHX84)
+- [Linear Algebra and Calculus for Data Science and Machine Learning, DeepLearning.AI](https://www.coursera.org/account/accomplishments/certificate/42ATLQANHFK3)
+- [Fundamentals of Digital Marketing](https://www.coursera.org/account/accomplishments/certificate/95WAVFKAGDQZ)
