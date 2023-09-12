@@ -32,7 +32,7 @@ enhancing the system's accuracy and effectiveness.
  
 <br/>Title: RGB to Hyperspectral Imaging 
 <br/>Team size: 3
-<br/>GitHub link: https://github.com/jasmeetsingh-028/RGB2HSI
+<br/>[GitHub link](https://github.com/jasmeetsingh-028/RGB2HSI)
 <br/>Description: 
 - Conducted in-depth analysis of pre-existing models, such as HSCNN+, to gain insights into their 
 functionality. 
@@ -44,7 +44,7 @@ HSI images during the process.
 mean squared error. 
  
 <br/>Title: Domain Adaptation with CycleGAN
-<br/>GitHub Link: https://github.com/jasmeetsingh-028/Domain-Adaptation-using-Cycle-GAN
+<br/>[GitHub Link](https://github.com/jasmeetsingh-028/Domain-Adaptation-using-Cycle-GAN)
 <br/>Description:
 - Created a CycleGAN-based project for domain adaptation, enabling seamless transformation between 
 source and target domains. 
@@ -54,7 +54,7 @@ without paired data.
 applications.
 
 <br/>Title: Neural Style Transfer 
-<br/>GitHub Link: https://github.com/jasmeetsingh-028/Neural-Style-Transfer-using-VGG19
+<br/>[GitHub Link](https://github.com/jasmeetsingh-028/Neural-Style-Transfer-using-VGG19)
 <br/>Description: 
 - Developed a Neural Style Transfer project using the VGG19 deep learning model. 
 - Utilized convolutional neural networks and transfer learning to extract meaningful features from the 
