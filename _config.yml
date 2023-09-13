@@ -1,5 +1,21 @@
 title: Jasmeet Singh
 logo: /assets/img/img_circle (4).png
-#description: text below image
+description: Data Scientist | Machine Learning Enthusiast | Deep Learning Researcher
 show_downloads: true
 theme: jekyll-theme-minimal
+
+plugins:
+  - jekyll-feed
+
+collections:
+  projects:
+    output: true
+    permalink: /projects/:title
+
+defaults:
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "project"
+      show_downloads: false
