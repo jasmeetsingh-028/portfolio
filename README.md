@@ -61,6 +61,21 @@
 - **Primary Subject:** Human pose/shape estimation.
 - **Authors:** Avinash Upadhyay (Primary), Ankit Shukla, Udyan Sharma, Jasmeet Singh, Manoj Sharma.
 
+# Web Applications
+
+## Stock News Analysis
+
+[Stock News Analysis Application](https://jasmeetsingh-028-stock-news-analy-streamplit-application-yxxzvw.streamlit.app/)
+
+Description: This web application provides real-time analysis of stock news, helping users make informed investment decisions. It uses natural language processing and sentiment analysis techniques to assess the impact of news articles on stock prices.
+
+## Streamlit AutoML Application
+
+[Streamlit AutoML Application](https://app-automl-application-5svqmxkkhppvh8rf9g4xak.streamlit.app/)
+
+Description: The Streamlit AutoML Application is a user-friendly tool that automates machine learning model building and evaluation. It simplifies the process of training and testing models, making it accessible to users with varying levels of expertise.
+
+
 ## Skills
 
 ### Technical Skills
