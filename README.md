@@ -85,5 +85,3 @@
 - [Linear Algebra and Calculus for Data Science and Machine Learning, DeepLearning.AI](https://www.coursera.org/account/accomplishments/certificate/42ATLQANHFK3)
 - [Fundamentals of Digital Marketing](https://www.coursera.org/account/accomplishments/certificate/95WAVFKAGDQZ)
 
-![Data Science](data-science-image.jpg)
-
