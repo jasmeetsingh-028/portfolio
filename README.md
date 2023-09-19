@@ -4,7 +4,7 @@
 
 - Bachelor of Engineering in Electronics and Communication, Bennett University
 - Aggregate/CGPA: 7.93
-- August 23, 20XX
+- August 23'
 
 ## Work Experience
 
