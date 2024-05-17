@@ -6,7 +6,7 @@
     <link rel="stylesheet" type="text/css" href="style.css">
     <title>Jasmeet Singh's Data Science Portfolio</title>
 </head>
-<body
+<body>
 
 # Jasmeet Singh's Data Science Portfolio
 
@@ -109,4 +109,7 @@ August 2023
 ### 3. Title of the Medium Article
 ![Article Image](URL-to-image)
 [Read more](URL-to-article)
+
+</body>
+</html>
 
