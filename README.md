@@ -1,13 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" type="text/css" href="style.css">
-    <title>Jasmeet Singh's Data Science Portfolio</title>
-</head>
-<body>
-
 # Jasmeet Singh's Data Science Portfolio
 
 ## Academic Qualification
@@ -110,6 +100,4 @@ August 2023
 ![Article Image](URL-to-image)
 [Read more](URL-to-article)
 
-</body>
-</html>
 
