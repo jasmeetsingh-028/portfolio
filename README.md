@@ -100,4 +100,3 @@ August 2023
 ![Article Image](URL-to-image)
 [Read more](URL-to-article)
 
-
