@@ -47,7 +47,7 @@ August 2023
 
 ## Paper Submission
 
-**Track Name:** Archives of Computational Methods in Engineering.
+**2. Track Name:** Archives of Computational Methods in Engineering.
 
 **Paper Title:** Deep learning based Single Image Super-Resolution: A comprehensive survey.
 
@@ -57,7 +57,7 @@ presented for improved performance with low computational cost.
 
 **Authors:** Ankit Shukla (Primary), Avinash Upadhyay, Jasmeet Singh, Manoj Sharma.
 
-**Track Name:** ICCV2023  
+**2. Track Name:** ICCV2023  
 
 **Paper Title:** Absolute 3D Pose Estimation from Multi-View Synchronized Videos Using Transformer-based 3D Pose Baseline for Temporal and Spatial Coherence.  
 
