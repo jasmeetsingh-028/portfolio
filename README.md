@@ -1,10 +1,10 @@
-# Jasmeet Singh's Data Science Portfolio
+# Jasmeet Singh's Portfolio
 
 ## Academic Qualification
 
 **Bachelor of Engineering in Electronics and Communication**  
 Bennett University  
-Aggregate/CGPA: 7.93  
+Aggregate/CGPA: 7.93
 August 2023
 
 ## Work Experience
@@ -88,15 +88,15 @@ August 2023
 
 ## Medium Articles
 
-### 1. Title of the Medium Article
-![Article Image](URL-to-image)
-[Read more](URL-to-article)
+### 1. Denoising Diffusion model Implementation from scratch
+![Article Image](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*4lptkrdXPZ0rMqU0tcJr1A.jpeg)
+[Read more](https://medium.com/@sjasmeet135/denoising-diffusion-model-implementation-from-scratch-b0a1fc6ef5d8)
 
-### 2. Title of the Medium Article
-![Article Image](URL-to-image)
-[Read more](URL-to-article)
+### 2. LLM fine-tuning methods
+![Article Image](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*PLTzifVB7cEQEQBkG914mg.png)
+[Read more](https://medium.com/gopenai/unleashing-the-power-of-language-models-fine-tuning-and-beyond-b3fbf36e0cdc)
 
-### 3. Title of the Medium Article
-![Article Image](URL-to-image)
-[Read more](URL-to-article)
+### 3. Evaluating LLMs
+![Article Image](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*wCFBrbJ5vY1rjaxtRYepNg.jpeg)
+[Read more](https://medium.com/gopenai/evaluating-language-models-metrices-and-benchmarking-2cd18d5e893a)
 
