@@ -48,15 +48,21 @@ August 2023
 ## Paper Submission
 
 **Track Name:** Archives of Computational Methods in Engineering.
+
 **Paper Title:** Deep learning based Single Image Super-Resolution: A comprehensive survey.
+
 **Description:** This paper reviews deep learning-based algorithms for single image super-resolution (SISR),
 highlighting key components, learning strategies, datasets, and quality assessment metrics. Future insights are
 presented for improved performance with low computational cost.
+
 **Authors:** Ankit Shukla (Primary), Avinash Upadhyay, Jasmeet Singh, Manoj Sharma.
 
 **Track Name:** ICCV2023  
+
 **Paper Title:** Absolute 3D Pose Estimation from Multi-View Synchronized Videos Using Transformer-based 3D Pose Baseline for Temporal and Spatial Coherence.  
+
 **Primary Subject:** Human pose/shape estimation.  
+
 **Authors:** Avinash Upadhyay (Primary), Ankit Shukla, Udyan Sharma, Jasmeet Singh, Manoj Sharma.
 
 ## Skills
