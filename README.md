@@ -47,7 +47,7 @@ August 2023
 
 ## Paper Submission
 
-**2. Track Name:** Archives of Computational Methods in Engineering.
+**1. Track Name:** Archives of Computational Methods in Engineering.
 
 **Paper Title:** Deep learning based Single Image Super-Resolution: A comprehensive survey.
 
